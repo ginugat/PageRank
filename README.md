@@ -4,7 +4,7 @@ PageRank (PR) is an algorithm used by Google Search to rank websites in their se
 As part of Information Retrievel course assignment, implemented PageRank algorithm.
 
 # Input Format
-The the python file accepts a text file of Adjacency matrix with three columns (i, j, k) where each row will denote information for a cell. A row of the form "i j k" denotes that the matrix contains a value k at the row i column j. Run the file python <a href = "https://github.com/ginugat/PageRank/blob/master/PageRankImplementation.py"> pageRankImplementation.py </a> and as prompted, give the path of the Adjacency Matrix of above format as input.
+The the python file accepts a text file of Adjacency matrix with three columns of ints (i, j, k) where each row will denote information for a cell. A row of the form "i j k" denotes that the matrix contains a value k at the row i column j. Run the file python <a href = "https://github.com/ginugat/PageRank/blob/master/PageRankImplementation.py"> pageRankImplementation.py </a> and as prompted, give the path of the Adjacency Matrix of above format as input.
 
 The Algorithm outputs:
   
