@@ -67,6 +67,6 @@ def helper(path):
     return C.transpose()
 
 
-print("Enter the path of Adj Matrix. Acceptable input format: Three columns of ints or floats")
+print("Enter the path of Adj Matrix.")
 path = input()
 pageRankImplementation(path)
